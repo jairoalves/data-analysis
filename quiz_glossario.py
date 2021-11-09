@@ -21,7 +21,6 @@ def gera_glossario(dados):
             glossario[letra].update({termo: definicao})
     return glossario
 
-
 def obtem_proximo_termo(glossario, letras_populadas):
     
     letra = choice(letras_populadas)
