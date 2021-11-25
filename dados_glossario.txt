@@ -1,11 +1,14 @@
 A
 A/B testing: The process of testing two variations of the same web page to determine which page is more successful at attracting user traffic and generating revenue
+Absolute reference: A reference within a function that is locked so that rows and columns won’t change if the function is copied
 Access control: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet 
 Accuracy: The degree to which data conforms to the actual entity being measured or described
 Action-oriented question: A question whose answers lead to change 
 Administrative metadata: Metadata that indicates the technical source of a digital asset
 Agenda: A list of scheduled appointments 
+Aggregation: The process of collecting or gathering many separate pieces into a whole
 Algorithm: A process or set of rules followed for a specific task
+Aliasing: Temporarily naming a table or column in a query to make it easier to read and write
 Analytical skills: Qualities and characteristics associated with using facts to solve problems
 Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
 Attribute: A characteristic or quality of data used to label a column in a table
@@ -17,7 +20,7 @@ Bias: A conscious or subconscious preference in favor of or against a person, gr
 Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems 
 Boolean data: A data type with only two possible values, usually true or false
 Borders: Lines that can be added around two or more cells on a spreadsheet
-Business task: The question or problem data analysis resolves for a business
+Business task: The question or problem data analysis resolves for a business 
 C
 CASE: A SQL statement that returns records that meet conditions by including an if/then statement in a query
 CAST: A SQL function that converts data from one datatype to another
@@ -31,7 +34,7 @@ Completeness: The degree to which data contains all desired components or measur
 CONCAT: A SQL function that adds strings together to create new text strings that can be used as unique keys
 CONCATENATE: A spreadsheet function that joins together two or more text strings
 Conditional formatting: A spreadsheet tool that changes how cells appear when values meet specific conditions
-Confidence interval: A range of values that conveys how likely a statistical estimate reflects the population
+Confidence interval:  A range of values that conveys how likely a statistical estimate reflects the population
 Confidence level: The probability that a sample size accurately reflects the greater population
 Confirmation bias: The tendency to search for or interpret information in a way that confirms pre-existing beliefs
 Consent: The aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it
@@ -39,15 +42,17 @@ Consistency: The degree to which data is repeatable from different points of ent
 Context: The condition in which something exists or happens
 Continuous data: Data that is measured and can have almost any numeric value
 Cookie: A small file stored on a computer that contains information about its users
-COUNT: A spreadsheet function that counts the number of cells in a range that meet a specified critera
+COUNT: A spreadsheet function that counts the number of cells in a range that meet a specified value
 COUNTA: A spreadsheet function that counts the total number of values within a specified range
 COUNTIF: A spreadsheet function that returns the number of cells in a range that match a specified value
+COUNT DISTINCT: A SQL function that only returns the distinct values in a specified range
 Cross-field validation: A process that ensures certain conditions for multiple data fields are satisfied
-CSV (comma-separated values)file: A delimited text file that uses a comma to separate values
+CSV (comma-separated values) file: A delimited text file that uses a comma to separate values
 Currency: The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions
 D
 Dashboard: A tool that monitors live, incoming data
 Data: A collection of facts
+Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
 Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
 Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
@@ -73,7 +78,7 @@ Data model: A tool for organizing data elements and how they relate to one anoth
 Data privacy: Preserving a data subject’s information any time a data transaction occurs
 Data range: Numerical values that fall between predefined maximum and minimum values
 Data replication: The process of storing data in multiple locations
-Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
 Data security: Protecting data from unauthorized access or corruption by adopting safety measures
 Data strategy: The management of the people, processes, and tools used in data analysis
 Data transfer: The process of copying data from a storage device to computer memory or from one computer to another
@@ -98,7 +103,7 @@ Ethics: Well-founded standards of right and wrong that prescribe what humans oug
 Experimenter bias: The tendency for different people to observe things differently (Refer to Observer bias)
 External data: Data that lives, and is generated, outside of an organization
 F
-Fairness: A quality of data analysis that does not create or reinforce bias
+Fairness: A quality of data analysis that does not create or reinforce bias 
 Field: A single piece of information from a row or column of a spreadsheet; in a data table, typically a column in the table
 Field length: A tool for determining how many characters can be keyed into a spreadsheet field
 Fill handle: A box in the lower-right-hand corner of a selected spreadsheet cell that can be dragged through neighboring cells in order to continue an instruction
@@ -109,7 +114,7 @@ Float: A number that contains a decimal
 Foreign key: A field within a database table that is a primary key in another table (Refer to primary key)
 Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
 FROM: The section of a query that indicates from which table(s) to extract the data
-Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet or other format
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
 G
 Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 General Data Protection Regulation of the European Union (GDPR): Policy-making body in the European Union created to help protect people and their data
@@ -122,20 +127,25 @@ I
 Incomplete data: Data that is missing important fields
 Inconsistent data: Data that uses different formats to represent the same thing
 Incorrect/inaccurate data: Data that is complete but inaccurate
+INNER JOIN : A SQL function that returns records with matching values in both tables
 Internal data: Data that lives within a company’s own systems
 Interpretation bias: The tendency to interpret ambiguous situations in a positive or negative way
 J
+JOIN: A SQL function that is used to combine rows from two or more tables based on a related column
 K
 L
 Leading question: A question that steers people toward a certain response 
 LEFT: A function that returns a set number of characters from the left side of a text string 
+LEFT JOIN: A SQL function that will return all the records from the left table and only the matching records from the right table
 LEN: A function that returns the length of a text string by counting the number of characters it contains
 Length: The number of characters in a text string
+LIMIT: A SQL clause that specifies the maximum number of records returned in a query
 Long data: A dataset in which each row is one time point per subject, so each subject has data in multiple rows
 M
 Mandatory: A data value that cannot be left blank or empty
 Margin of error: The maximum amount that sample results are expected to differ from those of the actual population
-Math expression: A calculation that involves addition, subtraction, multiplication, or division (also called an equation)
+MATCH: A spreadsheet function used to locate the position of a specific lookup value
+Math expression: A calculation that involves addition, subtraction, multiplication, or division (also called equation)
 Math function: A function that is used as part of a mathematical formula
 MAX: A function that returns the largest numeric value from a range of cells
 Measurable question: A question whose answers can be quantified and assessed
@@ -164,6 +174,7 @@ ORDER BY: A SQL clause that sorts results returned in a query
 Order of operations: Using parentheses to group together spreadsheet values in order to clarify the order in which operations should be performed
 Ordinal data: Qualitative data with a set order or scale
 Outdated data: Any data that has been superseded by newer and more accurate information
+OUTER JOIN: A SQL function that combines RIGHT and LEFT JOIN to return all matching records in both tables
 Ownership: The aspect of data ethics that presumes individuals own the raw data they provide and have primary control over its usage, processing, and sharing 
 P
 Pivot chart: A chart created from the fields in a pivot table 
@@ -192,7 +203,9 @@ Report: A static collection of data periodically given to stakeholders
 Return on investment (ROI): A formula that uses the metrics of investment and profit to evaluate the success of an investment
 Revenue: The total amount of income generated by the sale of goods or services 
 RIGHT: A function that returns a set number of characters from the right side of a text string
+RIGHT JOIN: A SQL function that will return all records from the right table and only the matching records from the left. 
 Root cause: The reason why a problem occurs
+ROUND: A SQL function that returns a number rounded to a certain number of decimal places. 
 S
 Sample: In data analytics, a segment of a population that is representative of the entire population
 Sampling bias: Overrepresenting or underrepresenting certain members of a population as a result of working with a sample that is not representative of the population as a whole
@@ -206,7 +219,7 @@ Social media: Websites and applications through which users create and share con
 Soft skills: Nontechnical traits and behaviors that relate to how people work
 Sorting: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
 Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
-Split: A function that divides text around a specified character and puts each fragment into a new, separate cell
+Split: A spreadsheet function that divides text around a specified character and puts each fragment into a new, separate cell
 Sponsor: A professional advocate who is committed to moving forward the career of another 
 Spreadsheet: A digital worksheet
 SQL: (Refer to Structured Query Language)
@@ -218,6 +231,7 @@ Structural metadata: Metadata that indicates how a piece of data is organized an
 Structured data: Data organized in a certain format such as rows and columns
 Structured Query Language: A computer programming language used to communicate with a database
 Structured thinking: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options 
+Subquery: A SQL query that is nested inside a larger query
 SUBSTR: A SQL function that extracts a substring from a string variable
 Substring: A subset of a text string
 SUM: A spreadsheet function that adds the values of a selected range of cells
@@ -243,6 +257,7 @@ United States Census Bureau: An agency in the U.S. Department of Commerce that s
 Unstructured data: Data that is not organized in any easily identifiable manner
 V
 Validity: The degree to which data conforms to constraints when it is input, collected, or created
+VALUE: A spreadsheet function that converts a text string that represents a number to a numeric value
 Verification: A process to confirm that a data-cleaning effort was well executed and the resulting data is accurate and reliable
 Video file: A collection of images, audio files, and other data usually encoded in a compressed format such as MP4, MV4, MOV, AVI, or FLV
 Visualization: (Refer to Data visualization) 
