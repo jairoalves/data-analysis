@@ -11,6 +11,7 @@ Algorithm: A process or set of rules followed for a specific task
 Aliasing: Temporarily naming a table or column in a query to make it easier to read and write
 Analytical skills: Qualities and characteristics associated with using facts to solve problems
 Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Array: A collection of values in spreadsheet cells
 Attribute: A characteristic or quality of data used to label a column in a table
 Audio file: Digitized audio storage usually in an MP3, AAC, or other compressed format
 AVERAGE: A spreadsheet function that returns an average of the values from a selected range
@@ -22,6 +23,7 @@ Boolean data: A data type with only two possible values, usually true or false
 Borders: Lines that can be added around two or more cells on a spreadsheet
 Business task: The question or problem data analysis resolves for a business 
 C
+Calculated field: A new field within a pivot table that carries out certain calculations based on the values of other fields
 CASE: A SQL statement that returns records that meet conditions by including an if/then statement in a query
 CAST: A SQL function that converts data from one datatype to another
 Cell reference: A cell or a range of cells in a worksheet typically used in formulas and functions
@@ -42,7 +44,7 @@ Consistency: The degree to which data is repeatable from different points of ent
 Context: The condition in which something exists or happens
 Continuous data: Data that is measured and can have almost any numeric value
 Cookie: A small file stored on a computer that contains information about its users
-COUNT: A spreadsheet function that counts the number of cells in a range that meet a specified value
+COUNT: A spreadsheet function that counts the number of cells in a range that meet a specified criteria
 COUNTA: A spreadsheet function that counts the total number of values within a specified range
 COUNTIF: A spreadsheet function that returns the number of cells in a range that match a specified value
 COUNT DISTINCT: A SQL function that only returns the distinct values in a specified range
@@ -52,6 +54,7 @@ Currency: The aspect of data ethics that presumes individuals should be aware of
 D
 Dashboard: A tool that monitors live, incoming data
 Data: A collection of facts
+Dataset: A collection of data that can be manipulated or analyzed as one unit 
 Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
 Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
@@ -84,6 +87,7 @@ Data strategy: The management of the people, processes, and tools used in data a
 Data transfer: The process of copying data from a storage device to computer memory or from one computer to another
 Data type: An attribute that describes a piece of data based on its values, its programming language, or the operations it can perform
 Data validation: A tool for checking the accuracy and quality of data
+Data validation process: The process of checking and rechecking the quality of data so that it is complete, accurate, secure and consistent
 Data visualization: The graphical representation of data
 Data warehousing specialist: A professional who develops processes and procedures to effectively store and organize data
 Database: A collection of data stored in a computer system
@@ -119,7 +123,8 @@ G
 Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 General Data Protection Regulation of the European Union (GDPR): Policy-making body in the European Union created to help protect people and their data
 Geolocation: The geographical location of a person or device by means of digital information
-Good data source: A data source that is reliable, original, comprehensive, current, and cited (ROCCC)  
+Good data source: A data source that is reliable, original, comprehensive, current, and cited (ROCCC)
+GROUP BY: A SQL clause that groups rows that have the same values from a table into summary rows 
 H
 Header: The first row in a spreadsheet that labels the type of data in each column
 Hypothesis testing: A process to determine if a survey or experiment has meaningful results
@@ -145,7 +150,7 @@ M
 Mandatory: A data value that cannot be left blank or empty
 Margin of error: The maximum amount that sample results are expected to differ from those of the actual population
 MATCH: A spreadsheet function used to locate the position of a specific lookup value
-Math expression: A calculation that involves addition, subtraction, multiplication, or division (also called equation)
+Math expression: A calculation that involves addition, subtraction, multiplication, or division (also called an equation)
 Math function: A function that is used as part of a mathematical formula
 MAX: A function that returns the largest numeric value from a range of cells
 Measurable question: A question whose answers can be quantified and assessed
@@ -157,6 +162,7 @@ Metric: A single, quantifiable type of data that is used for measurement
 Metric goal: A measurable goal set by a company and evaluated using metrics
 MID: A function that returns a segment from the middle of a text string
 MIN: A spreadsheet function that returns the smallest numeric value from a range of cells
+Modulo: An operator (%) that returns the remainder when one number is divided by another
 N
 Naming conventions: Consistent guidelines that describe the content, creation date, and version of a file in its name
 Networking: Building relationships by meeting people both in person and online
@@ -184,6 +190,7 @@ Population: In data analytics, all possible data values in a dataset
 Primary key: An identifier in a database that references a column in which each value is unique (Refer to foreign key)
 Problem domain: The area of analysis that encompasses every activity affecting or affected by a problem
 Problem types: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+Profit margin: A percentage that indicates how many cents of profit has been generated for each dollar of sale
 Q
 Qualitative data: A subjective and explanatory measure of a quality or characteristic
 Quantitative data: A specific and objective measure, such as a number, quantity, or range
@@ -219,7 +226,7 @@ Social media: Websites and applications through which users create and share con
 Soft skills: Nontechnical traits and behaviors that relate to how people work
 Sorting: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
 Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
-Split: A spreadsheet function that divides text around a specified character and puts each fragment into a new, separate cell
+SPLIT: A spreadsheet function that divides text around a specified character and puts each fragment into a new, separate cell
 Sponsor: A professional advocate who is committed to moving forward the career of another 
 Spreadsheet: A digital worksheet
 SQL: (Refer to Structured Query Language)
@@ -235,9 +242,13 @@ Subquery: A SQL query that is nested inside a larger query
 SUBSTR: A SQL function that extracts a substring from a string variable
 Substring: A subset of a text string
 SUM: A spreadsheet function that adds the values of a selected range of cells
+SUMIF: A spreadsheet function that adds numeric data based on one condition
+Summary table: A table used to summarize statistical information about data
+SUMPRODUCT: A function that multiplies arrays and returns the sum of those products
 Syntax: The predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement
 T
 Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Temporary table: A database table that is created and exists temporarily on a database server
 Text data type: A sequence of characters and punctuation that contains textual information (also called string data type)
 Text string: A group of characters within a cell, most often composed of letters
 Third-party data: Data provided from outside sources who didn’t collect it directly
@@ -249,6 +260,7 @@ Turnover rate: The rate at which employees voluntarily leave a company
 Typecasting: Converting data from one type to another
 U
 Unbiased sampling: When the sample of the population being measured is representative of the population as a whole
+Underscores: Lines used to underline words and connect text characters
 Unfair question: A question that makes assumptions or is difficult to answer honestly 
 
 Unique: A value that can’t have a duplicate
