@@ -30,6 +30,7 @@ Borders: Lines that can be added around two or more cells on a spreadsheet
 Box plot: A data visualization that displays the distribution of values along an x-axis
 Bubble chart: A data visualization that displays individual data points as bubbles, comparing numeric values by their relative size 
 Bullet graph: A data visualization that displays data as a horizontal bar chart moving toward a desired value 
+Business metric: A standard of measurement used to solve a business task
 Business task: The question or problem data analysis resolves for a business 
 C
 Calculated field: A new field within a pivot table that carries out certain calculations based on the values of other fields
@@ -47,7 +48,7 @@ Cloud: A place to keep data online, rather than a computer hard drive
 Cluster: A collection of data points on a data visualization with similar values
 COALESCE: A SQL function that returns non-null values in a list
 Column chart: A data visualization that uses individual data points for a changing variable, represented as vertical columns
-Combo chart: A data visualization that combines more than one visualization type 
+Combo chart: A data visualization that combines more than one visualization type
 Compatibility: How well two or more datasets are able to work together
 Completeness: The degree to which data contains all desired components or measures
 CONCAT: A SQL function that adds strings together to create new text strings that can be used as unique keys
@@ -64,8 +65,8 @@ CONVERT: A SQL function that changes the unit of measurement of a value in data
 Cookie: A small file stored on a computer that contains information about its users
 Correlation: The measure of the degree to which two variables change in relationship to each other
 COUNT: A spreadsheet function that counts the number of cells within a range that meet a specified condition
-COUNTA: A spreadsheet function that counts the total number of values within a specified range
-COUNTIF: A spreadsheet function that returns the number of cells within a range that match a specified value
+COUNTA: A spreadsheet function that counts the total number of values within a range that meet specified criteria
+COUNTIF: A spreadsheet function that returns the number of cells in a range that match a specified value
 COUNT DISTINCT: A SQL function that only returns the distinct values in a specified range
 CREATE TABLE: A SQL clause that adds a temporary table to a database that can be used by multiple people
 Cross-field validation: A process that ensures certain conditions for multiple data fields are satisfied
@@ -73,6 +74,7 @@ CSV (comma-separated values) file: A delimited text file that uses a comma to se
 Currency: The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions
 D
 Dashboard: A tool that monitors live, incoming data
+Dashboard filter: A tool for showing only the data that meets a specific criteria while hiding the rest
 Data: A collection of facts
 Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
 Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
@@ -80,8 +82,8 @@ Data analysis process: The six phases of ask, prepare, process, analyze, share, 
 Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
 Data analytics: The science of data
 Data anonymization: The process of protecting people's private or sensitive data by eliminating identifying information
-Data bias: When a preference in favor of or against a person, group of people, or thing systematically skews data analysis results in a certain direction
 Data blending: A Tableau method that combines data from multiple data sources
+Data bias: When a preference in favor of or against a person, group of people, or thing systematically skews data analysis results in a certain direction
 Data composition: The process of combining the individual parts in a visualization and displaying them together as a whole 
 Data constraints: The criteria that determine whether a piece of a data is clean and valid
 Data design: How information is organized
@@ -126,14 +128,14 @@ Discrete data: Data that is counted and has a limited number of values
 DISTINCT: A keyword that is added to a SQL SELECT statement to retrieve only non-duplicate entries
 Distribution graph: A data visualization that displays the frequency of various outcomes in a sample 
 Diverging color palette: A color theme that displays two ranges of data values using two different hues, with color intensity representing the magnitude of the values
-Donut chart: A data visualization where segments of a ring represent data values adding up to a whole
+Donut chart: A data visualization where 2D or 3D proportions (segments) of a ring- or O-shape represent data values adding up to a whole or 100%
 DROP TABLE: A SQL clause that removes a temporary table from a database
 Duplicate data: Any record that inadvertently shares data with another record
 Dynamic visualizations: Data visualizations that are interactive or change over time
 E
-Equation: A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
 Emphasis: The design principle of arranging visual elements to focus the audience’s attention on important information in a data visualization
 Engagement: Capturing and holding someone’s interest and attention during a data presentation
+Equation: A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
 Estimated response rate: The average number of people who typically complete a survey
 Ethics: Well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness, or specific virtues
 Experimenter bias: The tendency for different people to observe things differently (Refer to Observer bias)
@@ -150,6 +152,7 @@ First-party data: Data collected by an individual or group using their own resou
 Float: A number that contains a decimal
 Foreign key: A field within a database table that is a primary key in another table (Refer to primary key)
 Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Framework: The context a presentation needs to create logical connections that tie back to the business task and metrics
 FROM: The section of a query that indicates from which table(s) to extract the data
 Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
 G
@@ -167,6 +170,7 @@ Headline: Text at the top of a visualization that communicates the data being pr
 Heat map: A data visualization that uses color contrast to compare categories in a dataset
 Highlight table: A data visualization that uses conditional formatting and color on a table
 Histogram: A data visualization that shows how often data values fall into certain ranges
+Hypothesis: A theory that one might try to prove or disprove with data
 Hypothesis testing: A process to determine if a survey or experiment has meaningful results
 I
 Incomplete data: Data that is missing important fields
@@ -201,6 +205,7 @@ Math expression: A calculation that involves addition, subtraction, multiplicati
 Math function: A function that is used as part of a mathematical formula
 MAX: A function that returns the largest numeric value from a range of cells
 MAXIFS: A spreadsheet function that returns the maximum value from a given range that meets a specified condition
+McCandless Method: A method for presenting data visualizations that moves from general to specific information
 Measurable question: A question whose answers can be quantified and assessed
 Mental model: A data analyst’s thought process and approach to a problem
 Mentor: Someone who shares knowledge, skills, and experience to help another grow both professionally and personally
@@ -248,6 +253,7 @@ Primary key: An identifier in a database that references a column in which each 
 Problem domain: The area of analysis that encompasses every activity affecting or affected by a problem
 Problem types: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
 Profit margin: A percentage that indicates how many cents of profit has been generated for each dollar of sale
+Professional relationship building: Building relationships by meeting people both in person and online (Refer to Networking)
 Proportion: The design principle of using the relative size and arrangement of visual elements to demonstrate information in a data visualization
 Q
 Qualitative data: A subjective and explanatory measure of a quality or characteristic
