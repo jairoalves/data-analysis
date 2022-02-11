@@ -13,10 +13,12 @@ Alternative text: Text that provides an alternative to non-text content, such as
 Analytical skills: Qualities and characteristics associated with using facts to solve problems
 Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
 Annotation: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
+Anscombe’s quartet: Four datasets that have nearly identical summary statistics but contain different plotted values
 Area chart: A data visualization that uses individual data points for a changing variable connected by a continuous line with a filled in area underneath
 Argument (R): Information needed by a function in R in order to run
+Arithmetic operator: An operator used to perform basic math operations such as addition, subtraction, multiplication, and division
 Array: A collection of values in spreadsheet cells
-Assignment operator (R): An operator used to assign values to variables and vectors
+Assignment operator: An operator used to assign values to variables and vectors
 Attribute: A characteristic or quality of data used to label a column in a table
 Audio file: Digitized audio storage usually in an MP3, AAC, or other compressed format
 AVERAGE: A spreadsheet function that returns an average of the values from a selected range
@@ -114,7 +116,7 @@ Data model: A tool for organizing data elements and how they relate to one anoth
 Data privacy: Preserving a data subject’s information any time a data transaction occurs
 Data range: Numerical values that fall between predefined maximum and minimum values
 Data replication: The process of storing data in multiple locations
-Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
 Data security: Protecting data from unauthorized access or corruption by adopting safety measures
 Data storytelling: Communicating the meaning of a dataset with visuals and a narrative that are customized for an audience
 Data strategy: The management of the people, processes, and tools used in data analysis
@@ -169,6 +171,7 @@ Framework: The context a presentation needs to create logical connections that t
 FROM: The section of a query that indicates from which table(s) to extract the data
 Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
 Function (R): A body of reusable code for performing specific tasks in R
+FWF (fixed-width file): A text file with a specific format, which enables the saving of textual data in an organized fashion
 G
 Gantt chart: A data visualization that displays the duration of events or activities on a timeline
 Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
@@ -176,17 +179,18 @@ Gauge chart: A data visualization that shows a single result within a progressiv
 General Data Protection Regulation of the European Union (GDPR): Policy-making body in the European Union created to help protect people and their data
 Geolocation: The geographical location of a person or device by means of digital information
 ggplot2 (R): An R package in Tidyverse that creates a variety of data visualizations by applying different visual properties to the data variables in R
-Good data source: A data source that is reliable, original, comprehensive, current, and cited (ROCCC)
+Good data source: A data source that is reliable, original, comprehensive, current, and cited (ROCCC) 
 GROUP BY: A SQL clause that groups rows that have the same values from a table into summary rows 
 H
 HAVING: A SQL clause that adds a filter to a query instead of the underlying table that can only be used with aggregate functions
+head() (R): An R function that returns a preview of the column names and the first few rows of a dataset
 Header: The first row in a spreadsheet that labels the type of data in each column
 Headline: Text at the top of a visualization that communicates the data being presented
 Heat map: A data visualization that uses color contrast to compare categories in a dataset
 Highlight table: A data visualization that uses conditional formatting and color on a table
 Histogram: A data visualization that shows how often data values fall into certain ranges
 HTML5: A programming language that provides structure for web pages and connects to hosting platforms
-Hypothesis: A theory that one might try to prove or disprove with data
+Hypothesis: A theory that an analysis is trying to prove or disprove with data
 Hypothesis testing: A process to determine if a survey or experiment has meaningful results
 I
 IDE (Integrated Development Environment): A software application that brings together all the tools a data analyst may want to use in a single place
@@ -214,6 +218,7 @@ LIMIT: A SQL clause that specifies the maximum number of records returned in a q
 Line graph: A data visualization that uses one or more lines to display shifts or changes in data over time
 List: A vector whose elements can be of any type
 Live data: Data that is automatically updated 
+Log file: A computer-generated file that records events from operating systems and other software programs
 Logical operator: An operator that returns a logical data type
 Long data: A dataset in which each row is one time point per subject, so each subject has data in multiple rows
 M
@@ -241,6 +246,7 @@ MIN: A spreadsheet function that returns the smallest numeric value from a range
 MINIFS: A spreadsheet function that returns the minimum value from a given range that meets a specified condition
 Modulo: An operator (%) that returns the remainder when one number is divided by another
 Movement: The design principle of arranging visual elements to guide the audience’s eyes from one part of a data visualization to another
+mutate() (R): An R function that makes changes to a dataframe separating and merging columns or creating new variables 
 N
 Naming conventions: Consistent guidelines that describe the content, creation date, and version of a file in its name
 Narrative: (Refer to story)
@@ -301,6 +307,7 @@ Redundancy: When the same piece of data is stored in two or more places
 Reframing: The process of restating a problem or challenge, then redirecting it toward a potential resolution 
 Regular expression (RegEx): A rule that says the values in a table must match a prescribed pattern
 Relational database: A database that contains a series of tables that can be connected to form relationships
+Relational operator: An operator used to compare values, also known as a comparator
 Relativity: The process of considering observations in relation or proportion to something else
 Relevant question: A question that has significance to the problem to be solved
 Remove duplicates: A spreadsheet tool that automatically searches for and eliminates duplicate entries from a spreadsheet
@@ -310,7 +317,7 @@ Return on investment (ROI): A formula that uses the metrics of investment and pr
 Revenue: The total amount of income generated by the sale of goods or services 
 Rhythm: The design principle of creating movement and flow in a data visualization to engage an audience
 RIGHT: A function that returns a set number of characters from the right side of a text string
-RIGHT JOIN: A SQL function that will return all records from the right table and only the matching records from the left
+RIGHT JOIN: A SQL function that will return all records from the right table and only the matching records from the left 
 Root cause: The reason why a problem occurs
 ROUND: A SQL function that returns a number rounded to a certain number of decimal places. 
 Ruby: An object-oriented programming language for web application development
@@ -366,19 +373,24 @@ Temporary table: A database table that is created and exists temporarily on a da
 Text data type: A sequence of characters and punctuation that contains textual information (also called string data type)
 Text string: A group of characters within a cell, most often composed of letters
 Third-party data: Data provided from outside sources who didn’t collect it directly
+Tibble (R): A streamlined variation of data frames 
+Tidy data (R): A way of standardizing the organization of data within R
 tidyr (R): An R package in Tidyverse used for data cleaning to make tidy data
 Tidyverse (R): A system of packages in R with a common design philosophy for data manipulation, exploration, and visualization
 Time-bound question: A question that specifies a timeframe to be studied 
 Transaction transparency: The aspect of data ethics that presumes all data-processing activities and algorithms should be explainable and understood by the individual who provides the data
 Transferable skills: Skills and qualities that can transfer from one job or industry to another
 TRIM: A function that removes leading, trailing, and repeated spaces in data
+TSV (Tab-separated values file): A text file that stores a data table by separating columns of data with tabs
 Turnover rate: The rate at which employees voluntarily leave a company
 Typecasting: Converting data from one type to another
 U
 Unbiased sampling: When the sample of the population being measured is representative of the population as a whole
 Underscores: Lines used to underline words and connect text characters
 Unfair question: A question that makes assumptions or is difficult to answer honestly 
+
 Unique: A value that can’t have a duplicate
+
 United States Census Bureau: An agency in the U.S. Department of Commerce that serves as the nation’s leading provider of quality data about its people and economy
 Unity: The design principle of using visual elements that complement each other to create aesthetic appeal and clarity in a data visualization
 Unstructured data: Data that is not organized in any easily identifiable manner
